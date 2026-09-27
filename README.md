@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Varun Veeresh
+# 👋 Hi, I'm Varun V
 
 🎓 Data Science Engineering Student|  
 🎯 Aspiring Data Scientist & ML Engineer
